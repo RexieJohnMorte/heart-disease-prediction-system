@@ -141,11 +141,7 @@ This will generate: model.pkl
 
 **Rexie John Morte**
 
-Aspiring Software Developer  
-Machine Learning Enthusiast  
 
 ---
-
-
 
 
